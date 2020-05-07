@@ -1,4 +1,4 @@
-# omnifood
+# The Inferface
 
 ![Omnifood Page](./media/omnifood-min.PNG)
 
